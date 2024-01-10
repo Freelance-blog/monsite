@@ -151,7 +151,7 @@ footer {
 }
 /* Media Queries pour rendre le CSS responsive */
 
-@media screen and (max-width: 150px) {
+@media screen and (max-width: 600px) {
     #personal-presentation {
         flex-basis: 30%;
     }
@@ -162,7 +162,7 @@ footer {
 
     .service {
         flex-basis: calc(50% - 30px);
-        margin-right: 10px;
+        margin-right: 00px;
     }
 
     #social-media {
