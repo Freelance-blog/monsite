@@ -161,7 +161,7 @@ footer {
 }
 
     .service{
-        flex-basis:70%, 
+        flex-basis:60%,
         
     }
 
@@ -174,4 +174,7 @@ footer {
         margin-bottom: 20%;
         margin-top: 20%;
     }
+    .service:Hover{
+        transformation:scale(1.2);
+}
 }
