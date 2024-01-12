@@ -161,7 +161,7 @@ footer {
     }
 
     .service {
-        flex-basis: calc(50% - 20px);
+        flex-basis: calc(20% - 20px);
         margin-right: 00px;
     }
 
