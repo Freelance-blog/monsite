@@ -159,17 +159,12 @@ footer {
         flex-basis:100%;
 }
 
-    .services {
-        flex-basis: 100%;
+    .service{
+        flex-basis: 40%;
     }
 
     #social-media {
         flex-basis: 50%;
-    }
-
-    #development-web,
-    #infographie {
-        flex-basis: 40%;
     }
 
    #contact {
