@@ -154,11 +154,7 @@ footer {
 @media screen and (max-width: 768px) {
     #personal-presentation {
         flex-basis: 100%;
-    }
-
-    #services {
-        flex-basis: 100%;
-    }
+    }
 
     .service {
         flex-basis: 100%;
