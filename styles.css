@@ -156,11 +156,11 @@ footer {
         flex-basis: 100%;
     }
     #services{
-        flex-basis:80%;
+        flex-basis:70%;
 }
 
     .service{
-        flex-basis: 20%;
+        flex-basis: 100%;
     }
 
     #social-media {
