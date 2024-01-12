@@ -157,10 +157,12 @@ footer {
     }
     #services{
         flex-basis: 100%;
+
 }
 
     .service{
-        flex-basis: 50%;
+        flex-basis: 50%;
+        relative-position: centre;
     }
 
     #social-media {
