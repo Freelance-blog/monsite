@@ -156,7 +156,7 @@ footer {
         flex-basis: 100%;
     }
     #services{
-        flex-basis: 100%;
+        flex-basis: 80%, center;
 
 }
 
