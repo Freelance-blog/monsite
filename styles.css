@@ -162,7 +162,7 @@ footer {
 
     .service{
         flex-basis:100%, 
-        webkit-box-align: centre;
+        -webkit-box-align: center;
     }
 
     #social-media {
