@@ -161,7 +161,8 @@ footer {
 }
 
     .service{
-        flex-basis: 80%, center;
+        flex-basis: 80%, center;
+        margin-left: 10px;
     }
 
     #social-media {
