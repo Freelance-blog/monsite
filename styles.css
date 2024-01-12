@@ -156,7 +156,7 @@ footer {
         flex-basis: 100%;
     }
     #services{
-        flex-basis:100%;
+        flex-basis:80%;
 }
 
     .service{
@@ -169,7 +169,6 @@ footer {
 
    #contact {
         flex-basis: 100%;
-        margin-top:20px;
         margin-bottom: 20px;
      
     }
