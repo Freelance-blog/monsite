@@ -165,7 +165,7 @@ footer {
     }
 
     #social-media {
-        flex-basis: 20%;
+        flex-basis: 50%;
     }
 
     #development-web,
@@ -174,5 +174,5 @@ footer {
     }
 
    #contact {
-        flex-basis: 25%;
+        flex-basis: 100%;
     }
