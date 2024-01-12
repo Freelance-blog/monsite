@@ -160,7 +160,7 @@ footer {
 }
 
     .service{
-        flex-basis: 100%;
+        flex-basis: 40%;
     }
 
     #social-media {
@@ -169,7 +169,7 @@ footer {
 
    #contact {
         flex-basis: 100%;
-        margin-top: 20px;
+        padding: 20px;
         margin-bottom: 20px;
     }
 }
