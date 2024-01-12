@@ -170,7 +170,10 @@ footer {
     }
 
     #development-web,
-    #infographie
-    #contact {
+    #infographie {
         flex-basis: 100%;
+    }
+
+   #contact {
+        flex-basis: 25%;
     }
