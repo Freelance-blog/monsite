@@ -171,4 +171,5 @@ footer {
         flex-basis: 100%;
         margin-bottom: 20px;
     }
+  #services, #contact{padding: 20px;}
 }
