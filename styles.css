@@ -160,7 +160,8 @@ footer {
 }
 
     .service{
-        flex-basis: 40%;
+        flex-basis: 40%;
+        aligne: centre;
     }
 
     #social-media {
