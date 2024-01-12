@@ -154,9 +154,12 @@ footer {
 @media screen and (max-width: 768px) {
     #personal-presentation {
         flex-basis: 100%;
-    }
+    }
+    #services{
+        flex-basis:100%
+}
 
-    .service {
+    .services {
         flex-basis: 100%;
     }
 
@@ -166,7 +169,7 @@ footer {
 
     #development-web,
     #infographie {
-        flex-basis: 100%;
+        flex-basis: 40%;
     }
 
    #contact {
